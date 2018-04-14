@@ -1,0 +1,20 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+
+    "pages/slider/one/index",
+    "pages/slider/two/index",
+    "pages/slider/three/index",
+    "pages/slider/four/index"
+
+    
+
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Mur",
+    "navigationBarTextStyle":"black"
+  }
+}
